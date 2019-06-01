@@ -1,1 +1,1 @@
-"# pyqt5-code-snippets" 
+# PyQt5 Code Snippets
